@@ -3,13 +3,18 @@
 <center>
 <table>
 <tr>
-<td><img width=”470px” align=”left” src="https://github-readme-stats.vercel.app/api?username=regisbaldo&theme=radical&show_icons=true" /></td>
-<td><img width=”390px” align=”left” src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisbaldo&layout=compact&theme=radical" /></td>
+<td>
+  <img width=”470px” align=”left” src="https://github-readme-stats.vercel.app/api?username=regisbaldo&theme=radical&show_icons=true" />
+</td>
+<td>
+  <img width=”390px” align=”left” src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisbaldo&layout=compact&theme=radical" />
+</td>
 </tr>
 </table>
 </center>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=regisbaldo&repo=instalura&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a target="_blank" href="https://github.com/regisbaldo/instalura">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=regisbaldo&repo=instalura&theme=radical" />
+</a>
 
 <!--
 **regisbaldo/regisbaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
