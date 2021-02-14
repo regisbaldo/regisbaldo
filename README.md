@@ -10,11 +10,16 @@
   <img width=”390px” align=”left” src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisbaldo&layout=compact&theme=radical" />
 </td>
 </tr>
-</table>
-</center>
-<a target="_blank" href="https://github.com/regisbaldo/instalura">
+  <tr>
+    <td>
+      <a target="_blank" href="https://github.com/regisbaldo/instalura">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=regisbaldo&repo=instalura&theme=radical" />
 </a>
+    </td>
+  </tr>
+</table>
+</center>
+
 
 <!--
 **regisbaldo/regisbaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
