@@ -1,4 +1,4 @@
-## Hi ,i'm Reginaldo, but you can call me Regisbaldo  👋
+## Hi, i'm Reginaldo, but you can call me Regisbaldo  👋
 
 <center>
 <table>
